@@ -38,6 +38,12 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-eureka-server</artifactId>
+			<!--<exclusions>-->
+				<!--<exclusion>-->
+					<!--<groupId>jackson-dataformat-xml</groupId>-->
+					<!--<artifactId>com.fasterxml.jackson.dataformat</artifactId>-->
+				<!--</exclusion>-->
+			<!--</exclusions>-->
         </dependency>
 
 		<dependency>
