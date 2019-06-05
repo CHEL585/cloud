@@ -8,4 +8,9 @@ eureka:
 spring:
   application:
     name: proxy
-
+zuul:
+  routes:
+    userApi:
+      path: /userapi/**
+      stripPrefix: true
+      serviceId: user
