@@ -14,3 +14,7 @@ zuul:
       path: /userapi/**
       stripPrefix: true
       serviceId: user
+    orderApi:
+      path: /orderapi/**
+      stripPrefix: true
+      serviceId: order
