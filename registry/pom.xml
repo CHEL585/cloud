@@ -4,9 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.gul.cloud</groupId>
-		<artifactId>parent</artifactId>
+		<artifactId>gul-build</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath>../parent/pom.xml</relativePath> <!-- lookup parent from repository -->
+		<relativePath>../pom.xml</relativePath> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gul.cloud</groupId>
 	<artifactId>registry</artifactId>

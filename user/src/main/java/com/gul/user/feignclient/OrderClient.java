@@ -1,9 +1,8 @@
 package com.gul.user.feignclient;
 
-import com.gul.common.dto.OrderDto;
+
 import com.gul.common.remote.order;
 import org.springframework.cloud.netflix.feign.FeignClient;
-import org.springframework.web.bind.annotation.GetMapping;
 
 /**
  * <p>
