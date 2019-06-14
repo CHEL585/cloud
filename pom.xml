@@ -15,5 +15,6 @@
 		<module>user</module>
 		<module>proxy</module>
 		<module>order</module>
+		<module>common</module>
 	</modules>
 </project>
