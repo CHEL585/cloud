@@ -12,6 +12,7 @@ public class ProxyApplication {
 
 	public static void main(String[] args) {
 		//prod
+		//dev
 		SpringApplication.run(ProxyApplication.class, args);
 	}
 
