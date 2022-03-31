@@ -10,7 +10,7 @@
 
     <properties>
         <lombok.version>1.16.20</lombok.version>
-        <spring.web>1.5.10.RELEASE</spring.web>
+        <spring.web>2.5.12</spring.web>
     </properties>
 
 	<dependencies>
